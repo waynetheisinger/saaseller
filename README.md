@@ -31,14 +31,14 @@ At this stage, the repository contains a **complete Laravel application**, rathe
 Future plans include converting this project into a **true starter pack** that can be installed with a single command, like:
 
 ```bash
-laravel new my-project --starter=api-saas
+laravel new my-project --starter=SaaSeller
 ```
 
 For now, you can clone and run the project manually:
 
 ```bash
-git clone https://github.com/yourusername/laravel-saas-api.git
-cd laravel-saas-api
+git clone https://github.com/yourusername/saaseller.git
+cd saaseller
 composer install
 php artisan migrate
 php artisan serve
@@ -112,8 +112,8 @@ Ensure you have the following installed:
 ### 📦 **Clone the Repository**
 
 ```bash
-git clone https://github.com/yourusername/laravel-saas-api.git
-cd laravel-saas-api
+git clone https://github.com/yourusername/saaseller.git
+cd saaseller
 ```
 
 ### ⚙️ **Environment Configuration**
