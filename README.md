@@ -188,7 +188,7 @@ Please ensure you follow the **PSR-12 Coding Standard** and include appropriate 
 
 ## 📝 **License**
 
-This project is open-source software licensed under the **MIT License**. See the [LICENSE](./LICENSE) file for more details.
+This project is open-source software licensed under the **MIT License**. See the [LICENSE](./LICENSE.md) file for more details.
 
 ---
 
