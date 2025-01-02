@@ -1,3 +1,5 @@
+![Tests Status](https://github.com/waynetheisinger/saaseller/actions/workflows/laravel.yml/badge.svg)
+
 # 🚀 SaaSeller, An API-First Laravel SaaS Starter Pack
 
 Welcome to the **API-First Laravel SaaS Starter** – a robust, scalable backend boilerplate built with **Laravel**, designed to serve as the foundation for SaaS applications with **multi-tiered Access Control (ACL)**, **subscription management**, and **partner-level account hierarchies**.
